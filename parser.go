@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/quickfixgo/quickfix/internal"
+	"github.com/linmaosong2018/quickfix/internal"
 )
 
 const (
