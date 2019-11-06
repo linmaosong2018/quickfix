@@ -1,4 +1,4 @@
-module github.com/quickfixgo/quickfix
+module github.com/linmaosong2018/quickfix
 
 go 1.13
 
